@@ -16,8 +16,8 @@
 <h3>人生信条</h3>
 不花里就算不上魔法，弹幕要的就是火力
 <h3>重要坐标<h3/>
-雾雨魔法店 https://www.thwiki.cc/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99 <br/>
-红魔馆 https://baike.baidu.com/item/%E7%BA%A2%E9%AD%94%E9%A6%86?fromModule=lemma_search-box <br/>
+雾雨魔法店 <br/>https://www.thwiki.cc/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99 <br/>
+红魔馆 <br/>https://baike.baidu.com/item/%E7%BA%A2%E9%AD%94%E9%A6%86?fromModule=lemma_search-box <br/>
 -----------------<br/>
 我的专业是人工智能<br/>
 我最喜欢的一段代码是<br/>
