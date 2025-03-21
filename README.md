@@ -18,10 +18,11 @@
 <h3>重要坐标<h3/>
 雾雨魔法店 https://www.thwiki.cc/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99 <br/>
 红魔馆 https://baike.baidu.com/item/%E7%BA%A2%E9%AD%94%E9%A6%86?fromModule=lemma_search-box <br/>
------------------
+-----------------<br/>
 我的专业是人工智能<br/>
-我最喜欢的一段代码是
-''print("helloworld")<br/>''
-其中打印结果是''helloworld''<br/>
+我最喜欢的一段代码是<br/>
+`print("helloworld")`<br/>
+其中打印结果是<br/>
+`helloworld`<br/>
 我最喜欢的环境管理是conda<br/>
 <img src="C:\Users\雾雨魔理沙的扫帚\Desktop\QQ_1741657304121.png" width="800"/># MarisaCode
