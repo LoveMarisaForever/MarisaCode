@@ -1,7 +1,7 @@
 # MarisaCode
 雾雨魔理沙
-[图片Alt](<img height="267" src="C:\Users\雾雨魔理沙的扫帚\Desktop\Image_1712412009971.jpg" width="200"/> "可爱金发小女孩")
-<img height="267" src="C:\Users\雾雨魔理沙的扫帚\Desktop\Image_1712412009971.jpg" width="200"/>
+[图片Alt]( ![image](public/Image_1712412009971.jpg)"可爱金发小女孩")
+
 
 雾雨魔理沙，身居在森林中的普通魔法使
 ------------------------------------------------------------------------
