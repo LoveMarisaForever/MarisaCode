@@ -21,8 +21,12 @@
 -----------------<br/>
 我的专业是人工智能<br/>
 我最喜欢的一段代码是<br/>
-`print("helloworld")`<br/>
+'''python
+print("helloworld")<br/>
+'''
 其中打印结果是<br/>
-`helloworld`<br/>
+'''python
+helloworld<br/>
+'''
 我最喜欢的环境管理是conda<br/>
 <img src="C:\Users\雾雨魔理沙的扫帚\Desktop\QQ_1741657304121.png" width="800"/># MarisaCode
